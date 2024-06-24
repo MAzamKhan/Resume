@@ -1,0 +1,49 @@
+.detail{
+    color: rgb(3, 0, 200);
+    font-weight: bold;
+    line-height: 0;
+    font-size: medium;
+    padding-bottom: 20PX;
+}
+
+.detail1{
+    color: rgb(211, 0, 0);
+    font-weight: bold;
+    line-height: 0;
+    font-size: medium;
+    padding-bottom: 20PX;
+}
+
+p{
+    line-height: auto;
+    padding-right: 600px;
+}
+
+p1{
+    line-height: auto;
+    color: rgb(23, 0, 83);
+}
+
+h1 {
+    padding-left: 20px;
+    color: rgb(17, 0, 69);
+    line-height: 10px;
+}
+
+h2 {
+    color: darkblue;
+}
+
+h3 {
+    color: rgb(0, 80, 160);
+    line-height: auto;
+}
+
+.Picture {
+    border-radius: 50%;
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+  }
